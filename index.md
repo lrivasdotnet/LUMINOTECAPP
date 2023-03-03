@@ -1,6 +1,6 @@
 
-<h1>EEAPP</h1>
-Estructuras Eléctricas APP es una aplicación móvil que permite realizar cálculos presupuestarios en estructuras eléctricas de media y baja tensión de manera fácil e intuitiva.<br>
+<h1>LUMINOTEC APP</h1>
+LUMINOTEC APP es una aplicación móvil que permite realizar cálculos presupuestarios en proyectos luminotécnicos de manera fácil e intuitiva.<br>
 Su objetivo es para fines personales y educativos, prohibida su reproducción total o parcial para fines comerciales.<br>
 ITCA no es responsable por los datos introducido por los usuarios ni la información generada a partir de la aplicación..<br><br>
 
@@ -10,7 +10,7 @@ ITCA no es responsable por los datos introducido por los usuarios ni la informac
 
 <h1>POLÍTICA DE PRIVACIDAD</h1>
 
-Última modificación: 09 de Febrero de 2022
+Última modificación: 03 de Marzo de 2023
 
 El respeto a tu privacidad está totalmente garantizado.
 
